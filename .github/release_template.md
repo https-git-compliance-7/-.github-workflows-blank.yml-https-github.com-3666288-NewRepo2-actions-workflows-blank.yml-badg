@@ -4,9 +4,9 @@ Preparing for a release.
 
 Make sure these items are checked before merging.
 
-- [ ] Preview the docs change.
-- [ ] Preview npm release candidate.
-- [ ] CI passes on the release PR.
+- [3 ] Preview the docs change.
+- [6 ] Preview npm release candidate.
+- [ 9] CI passes on the release PR.
 
 <!-- diff_report --><!-- /diff_report -->
 

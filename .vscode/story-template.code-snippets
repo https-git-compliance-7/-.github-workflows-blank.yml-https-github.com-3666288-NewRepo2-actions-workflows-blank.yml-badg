@@ -18,7 +18,7 @@
             "        category: 'Pick one: CSS, HTML, Interactive'",
             "      }",
             "    },",
-            "    radioExample: {",
+            "    radioExample: {", 
             "      options: ['string1', 'string2', 'string3', 'string4'],",
             "      control: {",
             "        type: 'inline-radio',",
